@@ -1,7 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
-  <rect width="100" height="100" fill="black"/>
   <path
-    d="M15 85V15h15l20 35 20-35h15v70H70V45L50 80 30 45v40z"
-    fill="white"
-  />
+    d="M10 90V10h20l20 35 20-35h20v80H70V40L50 75 30 40v50z"
+    fill="black"/>
 </svg>
