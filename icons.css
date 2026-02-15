@@ -1,9 +1,14 @@
-/* base icon */
+/* =========================
+   BASE ICON (FontAwesome style)
+========================= */
 .m {
   display: inline-block;
   width: 1em;
   height: 1em;
+
   background-color: currentColor;
+
+  vertical-align: middle;
 
   -webkit-mask-repeat: no-repeat;
   -webkit-mask-position: center;
@@ -14,15 +19,18 @@
   mask-size: contain;
 }
 
-/* M icon */
+/* =========================
+   M ICON
+========================= */
 .m {
-  -webkit-mask-image: url("https://cdn.jsdelivr.net/gh/USERNAME/icons@main/m.svg");
-  mask-image: url("https://cdn.jsdelivr.net/gh/USERNAME/icons@main/m.svg");
+  -webkit-mask-image: url("https://cdn.jsdelivr.net/gh/sathishdhud/maaney-awesome/m.svg");
+  mask-image: url("https://cdn.jsdelivr.net/gh/sathishdhud/maaney-awesome/m.svg");
 }
 
-/* sizes like FontAwesome */
+/* =========================
+   SIZES
+========================= */
 .m-sm { font-size: 14px; }
 .m-md { font-size: 20px; }
 .m-lg { font-size: 28px; }
-.m-xl { font-size: 40px; }
-
+.m-xl { font-size: 42px; }
