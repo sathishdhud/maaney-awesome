@@ -1,4 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 200" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 210" fill="none">
+  
+  <!-- M Icon -->
   <path
     d="
       M40 160
@@ -17,4 +19,14 @@
     "
     fill="#000000"
   />
+
+  <!-- Long Underline (near the letter) -->
+  <rect
+    x="40"
+    y="172"
+    width="160"
+    height="6"
+    fill="#000000"
+  />
+
 </svg>
