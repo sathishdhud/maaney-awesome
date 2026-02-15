@@ -1,35 +1,22 @@
-/* =========================
-   BASE ICON (FontAwesome style)
-========================= */
 .m {
   display: inline-block;
   width: 1em;
   height: 1em;
 
   background-color: currentColor;
-
   vertical-align: middle;
 
+  -webkit-mask-image: url("https://cdn.jsdelivr.net/gh/sathishdhud/maaney-awesome/m.svg");
   -webkit-mask-repeat: no-repeat;
   -webkit-mask-position: center;
   -webkit-mask-size: contain;
 
+  mask-image: url("https://cdn.jsdelivr.net/gh/sathishdhud/maaney-awesome/m.svg");
   mask-repeat: no-repeat;
   mask-position: center;
   mask-size: contain;
 }
 
-/* =========================
-   M ICON
-========================= */
-.m {
-  -webkit-mask-image: url("https://cdn.jsdelivr.net/gh/sathishdhud/maaney-awesome/m.svg");
-  mask-image: url("https://cdn.jsdelivr.net/gh/sathishdhud/maaney-awesome/m.svg");
-}
-
-/* =========================
-   SIZES
-========================= */
 .m-sm { font-size: 14px; }
 .m-md { font-size: 20px; }
 .m-lg { font-size: 28px; }
