@@ -1,0 +1,28 @@
+/* base icon */
+.m {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-color: currentColor;
+
+  -webkit-mask-repeat: no-repeat;
+  -webkit-mask-position: center;
+  -webkit-mask-size: contain;
+
+  mask-repeat: no-repeat;
+  mask-position: center;
+  mask-size: contain;
+}
+
+/* M icon */
+.m {
+  -webkit-mask-image: url("https://cdn.jsdelivr.net/gh/USERNAME/icons@main/m.svg");
+  mask-image: url("https://cdn.jsdelivr.net/gh/USERNAME/icons@main/m.svg");
+}
+
+/* sizes like FontAwesome */
+.m-sm { font-size: 14px; }
+.m-md { font-size: 20px; }
+.m-lg { font-size: 28px; }
+.m-xl { font-size: 40px; }
+
