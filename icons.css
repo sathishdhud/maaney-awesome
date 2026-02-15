@@ -1,22 +1,18 @@
+/* Base icon */
 .m {
   display: inline-block;
   width: 1em;
   height: 1em;
 
-  background-color: currentColor;
-  vertical-align: middle;
+  background-image: url("https://cdn.jsdelivr.net/gh/sathishdhud/maaney-awesome/m.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
 
-  -webkit-mask-image: url("https://cdn.jsdelivr.net/gh/sathishdhud/maaney-awesome/m.svg");
-  -webkit-mask-repeat: no-repeat;
-  -webkit-mask-position: center;
-  -webkit-mask-size: contain;
-
-  mask-image: url("https://cdn.jsdelivr.net/gh/sathishdhud/maaney-awesome/m.svg");
-  mask-repeat: no-repeat;
-  mask-position: center;
-  mask-size: contain;
+  vertical-align: -0.15em;
 }
 
+/* Sizes */
 .m-sm { font-size: 14px; }
 .m-md { font-size: 20px; }
 .m-lg { font-size: 28px; }
