@@ -6,12 +6,12 @@
   background-color: currentColor;
   vertical-align: middle;
 
-  -webkit-mask-image: url("https://cdn.jsdelivr.net/gh/sathishdhud/maaney-awesome/m.svg");
+  -webkit-mask-image: url("https://cdn.jsdelivr.net/gh/sathishdhud/maaney-awesome/maaney.svg");
   -webkit-mask-repeat: no-repeat;
   -webkit-mask-position: center;
   -webkit-mask-size: contain;
 
-  mask-image: url("https://cdn.jsdelivr.net/gh/sathishdhud/maaney-awesome/m.svg");
+  mask-image: url("https://cdn.jsdelivr.net/gh/sathishdhud/maaney-awesome/maaney.svg");
   mask-repeat: no-repeat;
   mask-position: center;
   mask-size: contain;
